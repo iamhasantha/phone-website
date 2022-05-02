@@ -1,0 +1,51 @@
+body {
+    background-color: #e6f3ff;
+    padding: 8%;
+}
+
+.message {
+    color: blueviolet;
+    font-style: italic;
+}
+
+.tagline  strong {
+    color: brown;
+}
+
+.main img {
+    float: right;
+    width: 320px;
+}
+.list {
+    display: block;
+}
+
+.list p {
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 150px;
+}
+
+.list table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 100%;
+}
+
+.list table th,td {
+    text-align: left;
+    padding: 16px;
+}
+
+footer {
+    background-color: orange;
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3px;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+}
